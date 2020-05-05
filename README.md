@@ -5,7 +5,7 @@ python实现常见的机器学习算法，实验中用到的数据都为mnist数
 ## 目录
 **第二章：感知机**  
 博客：[机器学习(3)-感知机的理解与代码实现](https://blog.csdn.net/sabrinalx/article/details/105886642)  
-代码：[model/perceptron.py]()
+代码：[model/perceptron.py](https://github.com/lsabrinax/Machine-Learning-code/blob/master/model/perceptron.py)
 
 **第三章：K近邻**  
 博客：[]()  

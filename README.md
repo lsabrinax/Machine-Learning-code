@@ -8,8 +8,8 @@ python实现常见的机器学习算法，实验中用到的数据都为mnist数
 代码：[model/perceptron.py](https://github.com/lsabrinax/Machine-Learning-code/blob/master/model/perceptron.py)
 
 **第三章：K近邻**  
-博客：[]()  
-代码：[]()  
+博客：[机器学习(5)-K邻近(KNN）的理解与代码实现](https://blog.csdn.net/sabrinalx/article/details/105944938)  
+代码：[model/knn.py](https://github.com/lsabrinax/Machine-Learning-code/blob/master/model/knn.py)  
 
 **第四章：朴素贝叶斯**  
 博客：[机器学习(2)-朴素贝叶斯的理解和代码实现](https://blog.csdn.net/sabrinalx/article/details/105881335)  

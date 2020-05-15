@@ -26,4 +26,6 @@ python实现常见的机器学习算法，实验中用到的数据都为mnist数
 博客：[机器学习(4)-支持向量机的理解与代码实现（上）](https://blog.csdn.net/sabrinalx/article/details/105894364)、[机器学习(4)-支持向量机的理解与代码实现（下）](https://blog.csdn.net/sabrinalx/article/details/105901468)  
 代码：[model/svm.py](https://github.com/lsabrinax/Machine-Learning-code/blob/master/model/svm.py)
 
-
+**第八章：提升方法**
+博客：[机器学习(6)-提升方法的理解与代码实现](https://blog.csdn.net/sabrinalx/article/details/105973299)
+代码：[model/adaboost.py](https://github.com/lsabrinax/Machine-Learning-code/blob/master/model/adaboost.py)

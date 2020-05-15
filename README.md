@@ -15,9 +15,8 @@ python实现常见的机器学习算法，实验中用到的数据都为mnist数
 博客：[机器学习(2)-朴素贝叶斯的理解和代码实现](https://blog.csdn.net/sabrinalx/article/details/105881335)  
 代码：[model/naivebayes.py](https://github.com/lsabrinax/Machine-Learning-code/blob/master/model/naivebayes.py)
 
-**第五章：决策树**  
-博客：[]()  
-代码: []()  
+**第五章：决策树**   
+代码: [model/decision_tree.py](https://github.com/lsabrinax/Machine-Learning-code/blob/master/model/decision_tree.py)  
 
 **第六章：逻辑回归**  
 博客：[机器学习(1)-逻辑回归的理解、面试问题以及代码实现](https://blog.csdn.net/sabrinalx/article/details/105875879)  

@@ -29,3 +29,7 @@ python实现常见的机器学习算法，实验中用到的数据都为mnist数
 **第八章：提升方法**  
 博客：[机器学习(6)-提升方法的理解与代码实现](https://blog.csdn.net/sabrinalx/article/details/105973299)  
 代码：[model/adaboost.py](https://github.com/lsabrinax/Machine-Learning-code/blob/master/model/adaboost.py)
+
+**第九章：EM算法**  
+博客：[机器学习(7)-EM算法](https://blog.csdn.net/sabrinalx/article/details/106017665)  
+代码：[model/em.py](https://github.com/lsabrinax/Machine-Learning-code/blob/master/model/em.py)

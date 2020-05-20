@@ -33,3 +33,7 @@ python实现常见的机器学习算法，实验中用到的数据都为mnist数
 **第九章：EM算法**  
 博客：[机器学习(7)-EM算法](https://blog.csdn.net/sabrinalx/article/details/106017665)  
 代码：[model/em.py](https://github.com/lsabrinax/Machine-Learning-code/blob/master/model/em.py)
+
+**第十章：隐马尔可夫模型**  
+博客：[机器学习(8)-隐马尔可夫模型](https://blog.csdn.net/sabrinalx/article/details/106207813)  
+代码：[model/hmm.py](https://github.com/lsabrinax/Machine-Learning-code/blob/master/model/hmm.py)
